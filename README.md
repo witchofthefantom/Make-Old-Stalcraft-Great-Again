@@ -4,6 +4,6 @@
 Спасибо PXL, за предоставленную ранее версию идею и помощь в реализации большинства моментов
 
 ## 🌐 Инструкция:
-Основное приложение для локализации - https://github.com/witchofthefantom/Make-Old-Stalcraft-Great-Again-Stalcraft-X/releases/tag/LocalizationFiles
+Основное приложение для локализации - https://github.com/witchofthefantom/Make-Old-Stalcraft-Great-Again-Stalcraft-X/releases/tag/MainLocExe
 
 Файлы локализации для приложения - https://github.com/witchofthefantom/Make-Old-Stalcraft-Great-Again-Stalcraft-X/releases/tag/LocalizationFiles
