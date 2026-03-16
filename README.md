@@ -5,4 +5,5 @@
 
 ## 🌐 Инструкция:
 Основное приложение для локализации - https://github.com/witchofthefantom/Make-Old-Stalcraft-Great-Again-Stalcraft-X/releases/tag/LocalizationFiles
-Файлы локализации для приложения в виде мои
+
+Файлы локализации для приложения - https://github.com/witchofthefantom/Make-Old-Stalcraft-Great-Again-Stalcraft-X/releases/tag/LocalizationFiles
